@@ -1,0 +1,12 @@
+{
+  "Username": "Benutzername",
+  "Password": "Kennwort",
+  "Check-in": "Einchecken",
+  "Login": "Anmelden",
+  "Don't remember the password?": "Passwort vergessen?",
+  "Scan a QR code at the entrance": "Einlass  QR-Codes scannen",
+  "Check-out": "Auschecken",
+  "Scan a QR code at the exit": "Austritts QR-Codes scannen",
+  "close": "schließen",
+  "Bad credentials": "Falscher Benutzername oder falsches Passwort!"
+}
