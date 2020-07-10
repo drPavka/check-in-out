@@ -29,6 +29,7 @@
   "Only the owner of the mobile phone used during the registration can check in.": "Nur der Besitzer des Mobiltelefons, das bei der Registrierung benutzt wurde, kann einchecken.",
   "QR codes must not be shared with other users.": "QR-Codes dürfen nicht an andere Benutzer weitergegeben werden.",
   "Invalid QR code": "Ungültiger QR-Code",
+  "error.codeinvalid": "Ungültiger QR-Code",
   "The scanned QR code is not valid for this event.": "Der gescannte QR-Code ist für dieses Veranstaltung nicht gültig.",
   "Please sure make the guest has registered for this event.": "Bitte stellen Sie sicher, dass sich der Gast für diese Veranstaltung angemeldet hat.",
   "Retry": "Wiederholen",
