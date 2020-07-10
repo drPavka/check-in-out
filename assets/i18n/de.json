@@ -50,6 +50,7 @@
   "It seems the QR code is already checked-out.": "Es scheint, dass der QR-Code bereits ausgecheckt ist.",
   "Check-out error": "Fehler beim Auschecken",
   "Not checked-in!": "Nicht eingecheckt!",
+  "error.notcheckedin": "Nicht eingecheckt!",
   "Either the guest was not scanned at the entrance or you are in the wrong menu.": "Es scheint, dass der QR-Code nicht eingecheckt ist.Entweder wurde der Gast am Eingang nicht gescannt oder Sie befinden sich im falschen Menü.",
   "Do you want to check-in the guest instead?": "Möchten Sie stattdessen den Gast einchecken?",
   "Check-out confirmation": "Check-out-Bestätigung",
