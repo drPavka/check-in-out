@@ -1,10 +1,12 @@
 {
+  "Enter your credentials to sign-in": "Geben Sie Ihre Anmeldeinformationen ein, um sich anzumelden",
   "close": "schließen",
   "Bad credentials": "Falscher Benutzername oder falsches Passwort!",
   "Login page": "Login-Seite",
   "Username": "Benutzername",
   "Password": "Kennwort",
   "Login": "Anmelden",
+  "Logout": "Ausloggen",
   "Do not remember the password?": "Passwort vergessen?",
   "Wrong username or password!": "Falscher Benutzername oder falsches Passwort!",
   "Check-in": "Einchecken",
